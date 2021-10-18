@@ -1,0 +1,13 @@
+.sign-up-container {
+  right: 0;
+  width: 100%;
+  z-index: 1;
+}
+
+textarea {
+    background-color: #eee;
+    border: none;
+    padding: 12px 15px;
+    margin: 8px 0;
+    width: 100%;
+  }
